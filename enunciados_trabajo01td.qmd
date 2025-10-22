@@ -1,0 +1,45 @@
+---
+title: "Trabajo01"
+author: "Alejandro Jurado Luque"
+format: html
+editor: visual
+---
+
+```{r}
+#| echo: false
+source("funciones_incertidumbre.R")
+```
+
+# Problemas Alejandro Jurado Luque
+
+## Problema 1: Tabla de Decisión
+
+| Opciones | $E_1$ | $E_2$ | $E_3$ |
+|:--------:|:-----:|:-----:|:-----:|
+|  $A_1$   |  800  |  400  | -200  |
+|  $A_2$   |  500  |  500  |  100  |
+|  $A_3$   |  300  |  450  |  300  |
+
+### Apartados de Resolución (Funciones R Individuales)
+
+a)  **Situación Favorable (Ganancias/Beneficios):** Asumiendo que los valores de la tabla representan **ganancias** (en miles de euros)
+
+
+
+b)  **Situación Desfavorable (Costos):** Asumiendo que los valores de la tabla representan **costos** (en miles de euros).
+
+
+------------------------------------------------------------------------
+
+## Problema 2: Decisión de Cultivo en Almería (Situación Real)
+
+Una empresa agrícola está considerando tres alternativas de cultivo (Tomates, Pimientos, Cebollas) para el próximo año agrícola. En Almería, el clima afecta directamente a las rentabilidades de los cultivos, pudiendo darse 3 escenarios ($E_1$: Sequía, $E_2$: Clima Óptimo, $E_3$: Lluvias torrenciales), sobre el cual no se puede hacer una predicción. La rentabilidad de los cultivos por hectárea (en miles de €) depende de estas casuísticas.
+
+| Opciones | $E_1$: Sequía | $E_2$: Óptimo | $E_3$: Lluvias torrenciales |
+|:--------:|:-------------:|:-------------:|:---------------------------:|
+|  Tomate  |      20       |      100      |             40              |
+| Pimiento |      40       |      80       |             50              |
+| Cebolla  |      50       |      60       |             60              |
+
+
+\newpage
