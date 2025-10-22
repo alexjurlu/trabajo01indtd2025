@@ -13,3 +13,5 @@ También se adjunta el archivo funciones_incertidumbre.R, donde el profesor ha p
 funciones que han sido usadas para la resolución del ejercicio.
 
 Por último, los ejercicios propuestos vienen tanto solo como enunciado, como resuletos.
+
+Más adelante, la parte individual se juntará con la colectiva, dando así por finalizado el proyecto
