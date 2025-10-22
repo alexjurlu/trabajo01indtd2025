@@ -24,10 +24,7 @@ source("funciones_incertidumbre.R")
 
 a)  **Situación Favorable (Ganancias/Beneficios):** Asumiendo que los valores de la tabla representan **ganancias** (en miles de euros)
 
-
-
 b)  **Situación Desfavorable (Costos):** Asumiendo que los valores de la tabla representan **costos** (en miles de euros).
-
 
 ------------------------------------------------------------------------
 
@@ -40,6 +37,5 @@ Una empresa agrícola está considerando tres alternativas de cultivo (Tomates, 
 |  Tomate  |      20       |      100      |             40              |
 | Pimiento |      40       |      80       |             50              |
 | Cebolla  |      50       |      60       |             60              |
-
 
 \newpage
